@@ -13,6 +13,7 @@ The following adjacency matrix hold the rules that are to be followed by the pat
 	0 1 0 1 1 1 0 1 0
 	1 0 1 1 1 1 1 0 1
 	0 1 0 1 1 1 0 1 0
+	1 1 1 0 1 0 1 1 1
 	1 1 1 1 0 1 1 1 1
 	1 1 1 0 1 0 1 1 1
 	0 1 0 1 1 1 0 1 0
