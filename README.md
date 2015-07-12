@@ -3,7 +3,7 @@ TOTAL PATTERNS IN ANDROID PATTERN LOCK
 
 This c++ console application computes total patterns possible in android pattern lock.
 
-The problem is solved used graph.
+The problem is solved using graph after excluding a case where there cannot be a line over a node that is already used in the pattern.
 
 Algorithm
 ---------
@@ -42,4 +42,4 @@ Output
 Conclusion
 ----------
 
-Total valid patterns are 16132032, which is a huge number and is difficult to crack by brute-force techniques.
+Total valid patterns are 16132032.
